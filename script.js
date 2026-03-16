@@ -26,6 +26,6 @@ document.getElementById("mensaje").innerText = "Completa todos los campos"
 }
 else{
 
-document.getElementById("mensaje").innerText = "¡Gracias por tu propuesta!"
+document.getElementById("mensaje").innerText = "¡Muchas gracias por tu propuesta!"
 } 
 })
